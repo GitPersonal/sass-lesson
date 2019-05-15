@@ -26,3 +26,4 @@
 
 13. Go to the Sass file and at the bottom bar click `Watch Sass` and then test the sass file.
 14. run `Live Server`
+15. Option use `fontawesome.com` and select `start using free`
