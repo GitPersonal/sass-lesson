@@ -1,6 +1,6 @@
 # Sass
 
-1. open terminal or hyper.
+1. Open terminal or hyper.
 2. cd into projects folder
 3. type `mmkdir` and `project_name`
 4. type `mmkdir` and `dist`
@@ -26,4 +26,4 @@
 
 13. Go to the Sass file and at the bottom bar click `Watch Sass` and then test the sass file.
 14. run `Live Server`
-15. Option use `fontawesome.com` and select `start using free`
+15. Option use `fontawesome.com` and select `start using free` button
