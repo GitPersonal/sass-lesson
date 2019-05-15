@@ -11,7 +11,7 @@
 9. Click the settings gear bottom left corner
 10. Search sass
 11. Click `Live Sass Compile` under `Autoprefix` section click on `Edit in settings.json`
-12. type the followinginbetween the `{}`
+12. type the following in between the `{}`
 
 ```javascript
 "liveSassCompile.settings.formats": [
